@@ -10,6 +10,6 @@ Gem::Specification.new do |s|
     "lib/map_stitcher.rb", 
     "lib/map_stitcher/minecraft_map.rb",
     "lib/map_stitcher/map_collector.rb",
-    "lib/map_stitcher/colors.txt"
+    "lib/map_stitcher/colors.rb"
   ]
 end

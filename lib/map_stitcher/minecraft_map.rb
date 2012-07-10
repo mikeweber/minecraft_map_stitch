@@ -1,5 +1,5 @@
 class MinecraftMap
-  COLOR_MAP = File.open(File.join(File.dirname(__FILE__), 'colors.txt')).read.split("\n")
+  include 'colors'
   
   def initialize(raw_map_data)
     @map_data = NBTFile.load(raw_map_data)[1]['data']
