@@ -14,6 +14,6 @@ MapStitcher.stitch_maps("/Path/to/maps_dir")
 ```
 
 
-Reasources/More Information
+Resources/More Information
 ---------------------------
 * http://www.minecraftwiki.net/wiki/Map_Item_Format - Info regarding NBT Files and how they are structured.
